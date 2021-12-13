@@ -1,3 +1,4 @@
+//TODO удалить класс Weather
 public class Weather {
     private Double temperature;
     private String description;
